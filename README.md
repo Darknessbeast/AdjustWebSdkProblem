@@ -1,0 +1,1 @@
+It's just a simple html file from Adjust Web-sdk Example that I put my appToken in it. When simply opening it with browser it works fine. but when opening it with VS Live Server it gives this error: "Attribution request failed (tracking disabled) (platform:web)"
